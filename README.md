@@ -1,2 +1,2 @@
 # info201_m16_2
-Made changes on master branch.
+Made changes on master branch with new feature.
